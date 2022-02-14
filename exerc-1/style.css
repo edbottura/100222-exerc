@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(18, 170, 56);
+}
+
+ol, ul{
+    text-align: center;
+    list-style: none;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+#Head1{
+    color: blue;
+}
+
+#Head2{
+color: aquamarine;
+}
+
+#Head3{
+    color: blueviolet;
+}
+
+#Head4{
+    color: brown;
+}
+
+#Head5{
+    color: burlywood;
+}
+
+li{
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+img{
+    border: 1px solid #c8ccd1;
+    background-color: #f8f9fa;
+    font-size: 94%;
+    padding: 3px;
+    text-align: center;
+    overflow: hidden;
+}
